@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @venkyvenkatesh5
-- 👀 I’m interested in 
-- 🌱 I’m currently learning pursuing under graduation
-- 💞️ I’m looking to collaborate on.Software development and Game development
-- 📫 How to reach me inamanamellurivenkatesh@gmail.com
-- 😄 Pronouns: Venky
+# 👋 Hi, I’m Venky Venkatesh
 
-<!---
-venkyvenkatesh5/venkyvenkatesh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+- Software Development  
+- Game Development  
+
+## 🌱 Currently Learning
+- I am recently completed my graduation 
+- Exploring new tools, frameworks, and technologies to improve my skills  
+
+## 💞️ Looking to Collaborate On
+- Software projects (Web, Mobile, or Desktop)  
+- Indie game development projects  
+
+## 📫 How to Reach Me
+- **Email:** [inamanamellurivenkatesh@gmail.com](mailto:inamanamellurivenkatesh@gmail.com)  
+
+## 😄 Pronouns
+- Venky  
+
